@@ -5,9 +5,9 @@ The purpose of this analysis is to create a proposal that will show stakeholders
 Below are the results and visualizations. 
 <img src="top_starting.png"/>
 
-<img src="election_results.png"/>
-<img src="election_results.png"/>
-<img src="election_results.png"/>
-<img src="election_results.png"/>
-<img src="election_results.png"/>
-<img src="election_results.png"/>
+<img src="August Peak hours.png"/>
+<img src="Trips by weekday for each hour.png"/>
+<img src="Trips by gender.png"/>
+<img src="Checkout times for users.png"/>
+<img src="Checkout times by gender.png"/>
+<img src="User trips by gender by weekday.png"/>
